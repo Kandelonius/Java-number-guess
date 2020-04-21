@@ -5,7 +5,7 @@ import random, math
 print("Hello what is your name?")
 name = input()
 
-print("Well, " + ", I am thinking of a number between 1 and a number of your choosing")
+print("Well, "+ name +" I am thinking of a number between 1 and a number of your choosing")
 print("Choose the max possible number'")
 numberMax = int(input())
 
